@@ -17,3 +17,5 @@ Expressions ignore order of operations and just go right to left.
 
 Both the bracketed statement issue and the order of operations issue go back to choices I made in assignment 2. If I could start over from nothing I would have made 
 a lot of different design choices, coding assignment 4 made me see all of the bad choices I made when generating the tree.
+
+This is a great project to learn compilers with!
